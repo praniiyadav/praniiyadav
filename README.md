@@ -9,34 +9,51 @@ I am a passionate Data Analyst with a keen interest in mastering data analysis a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praniiyadav/)
 ## 🛠️ Technical Skills
 
-### Languages:
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)  
+## 🛠️ Skills & Tech Stack
 
-### Concepts:
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### 🧑‍💻 Languages
+- Python  
+- Java  
+- SQL  
+
+### 📚 Concepts
 - Object-Oriented Programming (OOPs)
 
-### Databases:
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+</td>
 
-### Tools:
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
+<td valign="top" width="33%">
 
-### Data Analysis & Visualization:
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge)  
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)  
+### 🗄️ Databases
+- MySQL  
+- MongoDB  
 
+### 🔧 Tools
+- Microsoft Excel  
+- Power BI  
+- Jupyter Notebook  
+- GitHub  
 
+</td>
 
-### Machine Learning:
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<td valign="top" width="33%">
+
+### 📊 Data Analysis & Visualization
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+
+### 🤖 Machine Learning
+- scikit-learn  
+
+</td>
+</tr>
+</table>
+)
 
 ## 📫 Contact Me
 - **Email:** [mr.prani16@gmail.com](mailto:mr.prani16@gmail.com)
