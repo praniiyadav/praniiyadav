@@ -1,59 +1,94 @@
-# Hi there 👋
+<h1 align="center">Hi 👋, I'm Praneeth Mopuri</h1>
+<h3 align="center">Aspiring Software Engineer | AI/ML Enthusiast | Data Analytics Learner</h3>
 
-## About Me
-I am a passionate Data Analyst with a keen interest in mastering data analysis and Power BI. I enjoy learning new technologies, solving problems, and building meaningful projects.
+---
 
-## 🌐 Connect with me:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_pranii.016/)
-[![Twitter](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_pranii)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praniiyadav/)
+## 🚀 About Me
+
+- 🎯 Currently undergoing professional training in **Machine Learning, Deep Learning, and AI technologies**
+- 💡 Passionate about solving real-world problems using **Data Analytics and Artificial Intelligence**
+- 📊 Skilled in building projects using **Python, SQL, Power BI, and Machine Learning**
+- 🧠 Interested in **Deep Learning, Algorithms, DSA, and Software Development**
+- 📚 Continuously learning and improving technical as well as problem-solving skills
+- ⚡ Strong interest in developing meaningful and impactful tech solutions
+
+---
 
 
-## 🛠️ Skills & Tech Stack
+# 🛠️ Skills & Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="33%">
+## 👨‍💻 Programming Languages
+- Python
+- SQL
 
-### 🧑‍💻 Languages
-- Python  
-- Java  
-- SQL  
+---
 
-### 📚 Concepts
+## 📚 Core Concepts
 - Object-Oriented Programming (OOPs)
+- Data Structures & Algorithms (DSA)
+- Problem Solving
+- Algorithms
 
-</td>
+---
 
-<td valign="top" width="33%">
+## 🤖 AI / ML
+- Machine Learning
+- Deep Learning
+- Model Building
+- Data Preprocessing
 
-### 🗄️ Databases
-- MySQL  
-- MongoDB  
+---
 
-### 🔧 Tools
-- Microsoft Excel  
-- Power BI  
-- Jupyter Notebook  
-- GitHub  
+## 📊 Data Analysis & Visualization
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Microsoft Excel
+- Power BI
 
-</td>
+---
 
-<td valign="top" width="33%">
+## 🧰 Tools & Platforms
+- Jupyter Notebook
+- Google Colab
+- GitHub
 
-### 📊 Data Analysis & Visualization
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
+---
 
-### 🤖 Machine Learning
-- scikit-learn  
+## 📈 Currently Learning
+- Advanced Machine Learning
+- Deep Learning Architectures
+- Neural Networks
+- AI Tools & Technologies
 
-</td>
-</tr>
-</table>
-)
+---
 
-## 📫 Contact Me
-- **Email:** [mr.prani16@gmail.com](mailto:mr.prani16@gmail.com)
+## 📌 Goals
+- Build scalable AI/ML solutions
+- Contribute to real-world projects
+- Grow as a Software Engineer and AI Engineer
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/praniiyadav" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="https://x.com/_pranii" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=twitter" height="40" />
+</a>
+
+<a href="https://instagram.com/_pranii.0" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
+</a>
+</p>
+
+📧 **Email:** `Pymopuri@gmail.com`
+
+---
+
+<h3 align="center">✨ Turning Data into Insights & Ideas into Projects ✨</h3>
