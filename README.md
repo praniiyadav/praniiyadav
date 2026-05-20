@@ -1,20 +1,21 @@
 <h1 align="center">Hi 👋, I'm Praneeth Mopuri</h1>
-<h3 align="center">Aspiring Software Engineer | AI/ML Enthusiast | Data Analytics Learner</h3>
+<h3 align="center">Software Engineer | AI/ML Enthusiast | Data Analytics & Deep Learning Learner</h3>
 
 ---
 
 ## 🚀 About Me
 
-- 🎯 Currently undergoing professional training in **Machine Learning, Deep Learning, and AI technologies**
-- 💡 Passionate about solving real-world problems using **Data Analytics and Artificial Intelligence**
-- 📊 Skilled in building projects using **Python, SQL, Power BI, and Machine Learning**
-- 🧠 Interested in **Deep Learning, Algorithms, DSA, and Software Development**
-- 📚 Continuously learning and improving technical as well as problem-solving skills
-- ⚡ Strong interest in developing meaningful and impactful tech solutions
+- 🎯 Currently undergoing professional training in **Machine Learning, Deep Learning, and AI Technologies**
+- 🤖 Actively exploring and learning modern **AI Tools, Generative AI, and intelligent systems**
+- 💡 Passionate about solving real-world problems using **Artificial Intelligence and Data Analytics**
+- 📊 Skilled in developing projects using **Python, SQL, Power BI, and Machine Learning**
+- 🧠 Strong interest in **Deep Learning, Algorithms, DSA, and Software Development**
+- 📚 Continuously improving technical, analytical, and problem-solving abilities
+- ⚡ Focused on building impactful, scalable, and real-world technology solutions
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 👨‍💻 Languages & Core Concepts
 <p align="left">
@@ -38,6 +39,8 @@
 - Neural Networks
 - Model Building
 - Data Preprocessing
+- AI Tools & Technologies
+- Generative AI Concepts
 
 ---
 
@@ -62,21 +65,26 @@
 
 - Jupyter Notebook
 - Google Colab
+- Git & GitHub
 
-
+---
 
 ## 📈 Currently Learning
+
 - Advanced Machine Learning
 - Deep Learning Architectures
 - Neural Networks
-- AI Tools & Technologies
+- AI Tools & Applications
+- Generative AI Concepts
 
 ---
 
 ## 📌 Goals
+
 - Build scalable AI/ML solutions
-- Contribute to real-world projects
-- Grow as a Software Engineer and AI Engineer
+- Contribute to real-world software and AI projects
+- Strengthen problem-solving and development skills
+- Grow as an AI Engineer and Software Engineer
 
 ---
 
@@ -100,4 +108,4 @@
 
 ---
 
-<h3 align="center">✨ Turning Data into Insights & Ideas into Projects ✨</h3>
+<h3 align="center">✨ Turning Data into Insights • AI into Innovation • Ideas into Projects ✨</h3>
